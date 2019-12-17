@@ -15,8 +15,15 @@
 * 引用格式自动调整
 
 ## 环境准备
+* win10
+* python2.7
 
 ## 安装
+* pip install python_docx
+
+## 使用
+* 只需要修改配置文件```config.py```中的配置就行
+* 不同学校有不同的论文写作规则, 做不到完全通用
 
 ## 后期功能
 * 论文某些部分自动生成(致谢,总结等)
@@ -25,3 +32,4 @@
 ## 参考
 
 [1] [论文写作规则](https://blog.csdn.net/g8433373/article/details/103510439)
+[2] [Python操作doc](https://python-docx.readthedocs.io/en/latest/user/quickstart.html#opening-a-document)
